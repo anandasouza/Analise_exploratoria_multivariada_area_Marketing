@@ -1,0 +1,2 @@
+# Analise_exploratoria_multivariada_area_Marketing
+Processo de Análise Exploratória Multivariada para área de Marketing
